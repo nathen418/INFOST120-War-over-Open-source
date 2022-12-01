@@ -31,8 +31,8 @@ Toulas, B. (2022, April 16). *GitHub suspends accounts of Russian devs at sancti
 
 ##### More in-depth analysis of 4 of the above sources can be found here:
 
-<https://drive.playantares.com/index.php/s/LtF8L7So7Zi6Gsq>
+[Analysis and Notes](https://github.com/nathen418/INFOST120-War-over-Open-source/blob/main/Github%20and%20the%20war%20in%20Ukraine.md)
 
 ##### Presentation notes and a shorter ethical analysis can be found here:
 
-<https://drive.playantares.com/index.php/s/65QgcSCHeNGanyC>
+[Presentation Notes](https://github.com/nathen418/INFOST120-War-over-Open-source/blob/main/Presentation%20Notes.md)
