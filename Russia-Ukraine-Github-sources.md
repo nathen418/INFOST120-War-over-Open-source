@@ -1,6 +1,5 @@
 ### High-quality PDF version of the poster:
-
-<https://drive.playantares.com/index.php/s/25DQCn6jJQ87n8N>
+In the root directory of this repo
 
 ### The ethical analysis presented in class is linked at the bottom of this document
 
